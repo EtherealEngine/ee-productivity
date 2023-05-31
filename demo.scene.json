@@ -201,7 +201,7 @@
           }
         },
         {
-          "name": "visible",
+          "name": "scene-preview-camera",
           "props": {}
         }
       ],
@@ -518,38 +518,6 @@
       "parent": "2266BED7-6CC4-48A6-95DD-9BCD3CF9EAFC",
       "index": 7,
       "name": "Invisible Ground"
-    },
-    "2646450f-c5b8-4b10-bf25-99dfdc9a0ea1": {
-      "components": [
-        {
-          "name": "transform",
-          "props": {
-            "position": {
-              "x": 0,
-              "y": 0,
-              "z": 0
-            },
-            "rotation": {
-              "x": 0,
-              "y": 0,
-              "z": 0,
-              "w": 1
-            },
-            "scale": {
-              "x": 1,
-              "y": 1,
-              "z": 1
-            }
-          }
-        },
-        {
-          "name": "scene-preview-camera",
-          "props": {}
-        }
-      ],
-      "parent": "2266BED7-6CC4-48A6-95DD-9BCD3CF9EAFC",
-      "index": 8,
-      "name": "entity-8"
     }
   },
   "root": "2266BED7-6CC4-48A6-95DD-9BCD3CF9EAFC"
